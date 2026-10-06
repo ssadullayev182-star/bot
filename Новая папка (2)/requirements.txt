@@ -1,0 +1,3 @@
+pytelegrambotapi
+rembg[cpu]
+pillow
